@@ -1,8 +1,8 @@
-#hello world
+# hello world
 ```javascript
 	var a = "hello world";
 ```
-##-php数据库连接
+## php数据库连接
 ```php
 	$conn = @mysqli_connect("localhost","root","","html5-9");
 	if (!$conn) {
